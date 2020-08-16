@@ -2,6 +2,8 @@
 
 <img src="https://github.com/mhnd6/TheMaze/blob/master/Capture.PNG" alt="maze pic" width="1000" height="500">
 
+<a href="https://mhnd6.github.io/TheMaze/">Try Now<a/>
+
 
 ## Tools
 > * JavaScript 
