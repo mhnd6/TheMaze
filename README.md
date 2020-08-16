@@ -2,9 +2,7 @@
 
 
 ##Tools
-> * JavaScript 
-* html
-* css
+> * JavaScript * html * css
 
 
 
