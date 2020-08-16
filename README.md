@@ -1,5 +1,13 @@
 #                                 The Maze
 
+
+##Tools
+> * JavaScript 
+* html
+* css
+
+
+
 ## Description:
 > The maze is a game I built using MatterJs library, this game shows a maze (Walls) with a ball and square objects
 
