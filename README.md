@@ -1,9 +1,12 @@
 #                                 The Maze
 
+<img src="https://github.com/mhnd6/TheMaze/blob/master/Capture.PNG" alt="maze pic" width="500" height="600">
+
 
 ##Tools
-> * JavaScript <br/> * Html * Css
+> * JavaScript 
 > * html
+> * css
 
 
 ## Description:
