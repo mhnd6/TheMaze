@@ -10,7 +10,7 @@
 
 
 ## Description:
-> The maze is a game I built using MatterJs library, this game shows a maze (Walls) with a ball and square objects
+> The maze is a game I built using MatterJs library, this game will generate random maze with fixed columns and then using matter js it will render (Walls) with a ball and square objects
 
 ## How to play?
 > Use ( w, d, s, a) on your keyboard to move the ball, your goal is to hit the ball with the square
