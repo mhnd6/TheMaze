@@ -1,9 +1,9 @@
-#                                 The Maze
+<h1>The Maze<h1/>
 
-<img src="https://github.com/mhnd6/TheMaze/blob/master/Capture.PNG" alt="maze pic" width="500" height="600">
+<img src="https://github.com/mhnd6/TheMaze/blob/master/Capture.PNG" alt="maze pic" width="900" height="600">
 
 
-##Tools
+## Tools
 > * JavaScript 
 > * html
 > * css
