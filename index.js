@@ -1,8 +1,8 @@
 const generateGame = () => {
   const { Engine, Render, Runner, World, Bodies, Body, Events } = Matter;
 
-  const cellsHorizontal = 7;
-  const cellsVertical = 7;
+  const cellsHorizontal = 10;
+  const cellsVertical = 10;
   const width = window.innerWidth;
   const height = window.innerHeight;
 
