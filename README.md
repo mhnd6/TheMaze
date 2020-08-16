@@ -1,6 +1,6 @@
 <h1>The Maze<h1/>
 
-<img src="https://github.com/mhnd6/TheMaze/blob/master/Capture.PNG" alt="maze pic" width="1000" height="600">
+<img src="https://github.com/mhnd6/TheMaze/blob/master/Capture.PNG" alt="maze pic" width="1000" height="500">
 
 
 ## Tools
